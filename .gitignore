@@ -1,0 +1,23 @@
+# Ignore submission files
+submission.csv
+submission_*.csv
+submission.zip
+
+# Ignore JupyterLab checkpoint files
+.ipynb_checkpoints/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore FastText and CatBoost model/data files
+*.bin
+*.vec
+*.ftz
+*.cbm
+*.catboost
+
+# Ignore Python scripts if you want (optional)
+*.py
