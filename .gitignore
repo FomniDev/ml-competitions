@@ -6,6 +6,9 @@ submission.zip
 # Ignore JupyterLab checkpoint files
 .ipynb_checkpoints/
 
+# Ignore CatBoost files
+catboost_info/
+
 # Ignore Python cache and compiled files
 __pycache__/
 *.pyc
