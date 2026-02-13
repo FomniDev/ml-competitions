@@ -8,7 +8,7 @@ submission.zip
 
 # Ignore CatBoost files
 catboost_info/
-
+ignore/
 # Ignore Python cache and compiled files
 __pycache__/
 *.pyc
